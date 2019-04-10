@@ -26,6 +26,7 @@ You are going to have to download and add the files from your Project 5 into thi
 ![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-kimhonrada21/blob/master/readme-src/ipadpro-sc1.PNG)
 ![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-kimhonrada21/blob/master/readme-src/ipadpro-sc2.PNG)
 ![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-kimhonrada21/blob/master/readme-src/iphonex-sc1.PNG)
+<b>
 ![GH Pages](https://github.com/RVCC-CISY225-S2019/project-6-kimhonrada21/blob/master/readme-src/iphonex-sc2.PNG)
 
 **You are expected to do the Week 9 reading as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.**
