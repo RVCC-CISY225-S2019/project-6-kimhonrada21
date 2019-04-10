@@ -24,12 +24,16 @@ html {
 }
 
 body {
-    font-family: 'PT Serif', serif;
+    font-family: 'Bitter', serif;
     margin: 0;
 }
 
 img {
     max-width: 100%;
+}
+p.iama {
+    font: Verdana;
+    font-weight: 600;
 }
 
 main,
@@ -74,7 +78,7 @@ a.skip:hover {
 }
 
 .navbar {
-    background-color: #333;
+    background-color: orangered;
     padding-bottom: 1rem;
 }
 
