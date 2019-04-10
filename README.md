@@ -23,10 +23,10 @@ You are going to have to download and add the files from your Project 5 into thi
 10. Add those screen grab pictures to the folder called readme-src in this repo.
 11. Edit this repo and add the images to the bottom of this page so that they display like the GH Pages image you see above.
 
-![GH Pages](https://github.com/cynthiateeters/nav-demo/blob/master/readme-src/iphonex-sc1.png)
-![GH Pages](https://github.com/cynthiateeters/nav-demo/blob/master/readme-src/iphonex-sc2.png)
-![GH Pages](https://github.com/cynthiateeters/nav-demo/blob/master/readme-src/ipadpro-sc1.png)
-![GH Pages](https://github.com/cynthiateeters/nav-demo/blob/master/readme-src/ipadpro.sc2.png)
+![GH Pages](https://github.com/kimhonrada21/nav-demo/blob/master/readme-src/iphonex-sc1.png)
+![GH Pages](https://github.com/kimhonrada21/nav-demo/blob/master/readme-src/iphonex-sc2.png)
+![GH Pages](https://github.com/kimhonrada21/nav-demo/blob/master/readme-src/ipadpro-sc1.png)
+![GH Pages](https://github.com/kimhonrada21/nav-demo/blob/master/readme-src/ipadpro.sc2.png)
 
 **You are expected to do the Week 9 reading as preparation for this assignment. Also you must use our CSS formatting rules from the CISY 225 Style Guide.**
 
